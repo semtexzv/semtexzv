@@ -1,4 +1,4 @@
-### Hi there 👋
+This page is intentionally left blank.
 
 <!--
 **semtexzv/semtexzv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
